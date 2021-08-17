@@ -1,8 +1,9 @@
 <html>
     <body>
-        <div class="banner">
-            <video>
+        <div class="section">
+            <video autoplay loop muted>
                 <source src="kismet_landing.mp4" type="video/mp4">
             </video>
+        </div>
     </body>
 </html>
