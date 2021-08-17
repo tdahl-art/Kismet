@@ -1,0 +1,8 @@
+<html>
+    <body>
+        <div class="banner">
+            <video>
+                <source src="kismet_landing.mp4" type="video/mp4">
+            </video>
+    </body>
+</html>
